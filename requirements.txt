@@ -1,0 +1,13 @@
+# =============================================================================
+# requirements.txt
+# Dépendances Python pour ProgPythonExpl
+#
+# Aucune dépendance externe requise.
+# Le projet utilise uniquement des modules inclus dans Python standard :
+#   - tkinter  : interface graphique
+#   - sqlite3  : base de données
+#   - os, sys, re, datetime : utilitaires standard
+#
+# Python 3.13+ requis
+# =============================================================================
+
