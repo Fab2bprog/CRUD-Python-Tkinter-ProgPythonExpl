@@ -129,7 +129,7 @@ class FenetreBienvenue(tk.Tk):
 
         tk.Label(
             cadre_principal,
-            text="Programme de démonstration CRUD – Table Clients SQLite",
+            text="Programme de démonstration CRUD, par Fabrice Garcia, 20290 Borgo, Haute-Corse, France. –-- Table Clients SQLite",
             font=POLICES["normale"],
             bg=COULEURS["fond_principal"],
             fg=COULEURS["texte_principal"],
