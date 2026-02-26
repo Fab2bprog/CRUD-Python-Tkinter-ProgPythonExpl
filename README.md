@@ -1,7 +1,7 @@
 # ProgPythonExpl
 
-Programme de démonstration CRUD Python – Interface graphique Tkinter – Base SQLite.
-Programme de niveau professionel.
+Programme de démonstration CRUD Python de niveau professionel. – Interface graphique Tkinter – Base SQLite - Architecture MVC.
+
 
 <p align="center">
   <img src="https://github.com/Fab2bprog/CRUD-Python-Tkinter-ProgPythonExpl/blob/main/images/crudpythonpic.png" width="650" >
